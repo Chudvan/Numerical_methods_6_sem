@@ -1,0 +1,4 @@
+http://acm.mipt.ru/twiki/bin/view/Cintro/PythonGraphs#_qm_ogp_ceks_k___gdpkmk_rq_Mathp
+Построить кусочную функцию в Python - https://ru.stackoverflow.com/questions/802754/%D0%9A%D0%B0%D0%BA-%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D0%BA%D1%83%D1%81%D0%BE%D1%87%D0%BD%D1%83%D1%8E-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8E-%D0%B2-matplotlib-python
+Выделить точки на графике - plt.scatter(x_20, y_20, color='red', s=100)
+Задать размеры графика - fig.set_size_inches -  https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.figure.Figure.html?highlight=set_size_inches#matplotlib.figure.Figure.set_size_inches

@@ -1,0 +1,10 @@
+http://acm.mipt.ru/twiki/bin/view/Cintro/SymPy
+
+var - ввести переменную https://docs.sympy.org/latest/modules/core.html?highlight=var#sympy.core.symbol.var
+init_printing() - инициализировать pretty-print https://docs.sympy.org/latest/modules/interactive.html?highlight=init_printing#sympy.interactive.printing.init_printing
+.subs() - для подстановки в функцию - https://docs.sympy.org/latest/modules/core.html?highlight=subs#sympy.core.basic.Basic.subs
+.evalf, .n, N - округлить до n значащих цифр https://docs.sympy.org/latest/modules/core.html?highlight=n#sympy.core.evalf.N
+
+Интегрирование:
+https://docs.sympy.org/latest/modules/integrals/integrals.html
+

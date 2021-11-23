@@ -1,0 +1,2 @@
+ndarray.flatten() - https://pyprog.pro/array_manipulation/ndarray_flatten.html
+numpy.linspace - https://pyprog.pro/array_creation/linspace.html
